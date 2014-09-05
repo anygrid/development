@@ -1,4 +1,4 @@
 development
 ===========
 
-We are deploying network management and support for arduino / ell-i / .. devices and networks in the spirit of open source. This is a collaboration hub.
+Here can be find descriptions of used protocols in this projects. Documents have been taken down from open sources in Internet.
