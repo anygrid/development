@@ -1,3 +1,3 @@
 **development**
 
-Code, devices, protocols and services. What else we need to pump up a network manage ment system?
+Code, devices, protocols and services. What else we need to pump up a network management system?
