@@ -7,6 +7,7 @@ sudo nano /etc/apt/sources.list
 Add the following items at the end of the file:
 
 deb http://ppa.launchpad.net/tbfr/zabbix/ubuntu precise main
+
 deb-src http://ppa.launchpad.net/tbfr/zabbix/ubuntu precise main
 
 Save&close&run.
