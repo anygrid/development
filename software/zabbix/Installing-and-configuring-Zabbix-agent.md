@@ -10,12 +10,12 @@ deb http://ppa.launchpad.net/tbfr/zabbix/ubuntu precise main
 
 deb-src http://ppa.launchpad.net/tbfr/zabbix/ubuntu precise main
 
-Save&close&run.
+Save&close, then.
+
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys C407E17D5F76A32B
 
 sudo apt-get update
-sudo apt-get install zabbix-agent
 
-sudo apt-get update
 sudo apt-get install zabbix-agent
 
 Next, we need to update the configuration files:
